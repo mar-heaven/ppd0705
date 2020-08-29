@@ -1,8 +1,8 @@
 ### Hi! Nice to meet you 👋
 
 
-- 🔭 I’m currently working on [ricequant](https://www.ricequant.com/welcome/)
-- 🌱 I’m currently learning Linux && Golang && Mysql
+- 🔭 I’m currently working at [ricequant](https://www.ricequant.com/welcome/)
+- 🌱 I’m currently learning Linux && Golang && MySQL
 - 💬 Ask me about Python && Golang && Database
 - 📫 How to reach me: [email](ppd0705@icloud.com)
 
